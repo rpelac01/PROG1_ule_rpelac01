@@ -8,4 +8,13 @@ ratón https://dle.rae.es/ratón
 monitor https://dle.rae.es/monitor
 mesa https://dle.rae.es/mesa
 ordenador https://dle.rae.es/ordenador
-
+1. Calbaza-https://dle.rae.es/calabaza
+2. saltamontes-https://dle.rae.es/saltamontes?m=form
+3. programar-https://dle.rae.es/programar?m=form
+4. compilar-https://dle.rae.es/compilar?m=form
+5. sol-https://dle.rae.es/sol?m=form
+6. mesa-https://dle.rae.es/mesa
+7. diccionario-https://dle.rae.es/diccionario?m=form
+8. saltimbanqui-https://dle.rae.es/saltimbanqui
+9. retrospectivo-https://dle.rae.es/retrospectivo?m=wotd2
+10. orejón-https://dle.rae.es/orej%C3%B3n?m=form
