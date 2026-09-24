@@ -1,0 +1,11 @@
+casa https://dle.rae.es/casa
+habitación https://dle.rae.es/habitación
+coche https://dle.rae.es/coche
+vaca https://dle.rae.es/vaca
+comida https://dle.rae.es/comida
+teclado https://dle.rae.es/teclado
+ratón https://dle.rae.es/ratón
+monitor https://dle.rae.es/monitor
+mesa https://dle.rae.es/mesa
+ordenador https://dle.rae.es/ordenador
+
