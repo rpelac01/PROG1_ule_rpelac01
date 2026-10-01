@@ -18,3 +18,13 @@ ordenador https://dle.rae.es/ordenador
 8. saltimbanqui-https://dle.rae.es/saltimbanqui
 9. retrospectivo-https://dle.rae.es/retrospectivo?m=wotd2
 10. orejón-https://dle.rae.es/orej%C3%B3n?m=form
+lampara https://dle.rae.es/l%C3%A1mpara?m=form 
+casa https://dle.rae.es/casa?m=form 
+perro https://dle.rae.es/perro?m=form 
+animal https://dle.rae.es/animal?m=form 
+asignatura https://dle.rae.es/asignatura?m=form 
+investigar https://dle.rae.es/ivestigar?m=form 
+objeto https://dle.rae.es/objeto?m=form 
+cabeza https://dle.rae.es/cabeza?m=form 
+oftalmologo https://dle.rae.es/oftalmologo?m=form 
+dientes https://dle.rae.es/dientes?m=form
